@@ -1,0 +1,6 @@
+{
+  "name": "Cake House Erattupetta",
+  "description": "Artisanal custom cakes, fudgy brownies, gourmet puddings, and bespoke celebration hampers in Erattupetta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
